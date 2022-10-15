@@ -1,0 +1,6 @@
+openweathermap:
+  js:
+    js/farmOS.map.behaviors.openweathermap.js: { }
+  dependencies:
+    - core/drupalSettings
+    - farm_map/farmOS-map

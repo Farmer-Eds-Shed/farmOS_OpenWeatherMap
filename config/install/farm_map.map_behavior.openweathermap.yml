@@ -1,0 +1,11 @@
+langcode: en
+status: true
+dependencies:
+  enforced:
+    module:
+      - farm_map_openweathermap
+id: openweathermap
+label: OpenWeatherMap
+description: 'Displays OpenWeatherMap layers.'
+library: 'farm_map_openweathermap/openweathermap'
+settings: {  }
